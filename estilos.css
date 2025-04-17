@@ -1,0 +1,83 @@
+/* 
+    Autor: Enrique Barajas Hernández
+    Fecha: 2025-03-08
+    Descripción: Estilos para la página de menú de un restaurante
+*/
+
+body {
+    background-color: aliceblue;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    padding: 20px;
+    background-color: #333;
+    color: white;
+    margin: 0;
+}
+
+h3 {
+    text-align: center;
+}
+
+#postres{
+    color:brown;
+}
+
+.jugos{
+    padding: 20px;            
+    border-bottom: 1px solid #ccc;
+}
+
+.desayunos{
+    background-color: beige;
+    padding: 20px;
+    border-bottom: 1px solid #ccc;
+}
+
+.postres{
+    padding: 20px;
+    border-bottom: 1px solid #ccc;
+}
+
+.precios{
+    background-color: burlywood;
+    padding: 20px;
+    border-bottom: 1px solid #ccc;
+}
+
+.footer{
+    padding: 20px;
+    text-align: center;
+    background-color: #333;
+    color: white;
+}
+
+a:link {
+    color:cornsilk;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:visited {
+    color: pink;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:hover {
+    color:cadetblue;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
