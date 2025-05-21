@@ -1,4 +1,4 @@
-# Board Game and Book Manager
+# Gestor de Juegos de Mesa y Libros
 
 This is a full-stack MERN (MongoDB, Express.js, React, Node.js) application designed to manage collections of board games and books, and to track loans of these items. It features user authentication with role-based access control (admin and user roles).
 
@@ -6,7 +6,7 @@ The application is structured into two main parts:
 *   **Backend (`server/`)**: A Node.js/Express.js application providing a RESTful API for data management and authentication.
 *   **Frontend (`client/`)**: A React Single Page Application (SPA) built with Vite, providing the user interface.
 
-## Key Features
+## Características Principales
 
 *   User registration and login with JWT-based authentication.
 *   Admin and User roles with different access permissions.
